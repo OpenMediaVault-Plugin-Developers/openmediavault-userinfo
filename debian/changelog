@@ -1,0 +1,5 @@
+openmediavault-userinfo (6.0) stable; urgency=low
+
+  * Initial release
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Sat, 19 Aug 2023 10:41:21 -0500

@@ -1,0 +1,13 @@
+Source: openmediavault-userinfo
+Section: net
+XB-Plugin-Section: backup
+Priority: optional
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.3.0
+
+Package: openmediavault-userinfo
+Architecture: all
+Depends: openmediavault (>= 6.6.0)
+Description: User info plugin for OpenMediaVault.
+ Allows external services to query information without admin privileges
